@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Mini_market\Mini_market\bin\Debug\Mini_market.exe.config
+C:\Users\HP\source\repos\Mini_market\Mini_market\bin\Debug\Mini_market.exe
+C:\Users\HP\source\repos\Mini_market\Mini_market\bin\Debug\Mini_market.pdb
+C:\Users\HP\source\repos\Mini_market\Mini_market\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.LoginForm.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.Properties.Resources.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.csproj.CopyComplete
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.exe
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.pdb
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.SpalshForm.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.ProductForm.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.CategoryForm.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.SellerForm.resources
+C:\Users\HP\source\repos\Mini_market\Mini_market\obj\Debug\Mini_market.SellingForm.resources
